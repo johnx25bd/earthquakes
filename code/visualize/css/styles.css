@@ -1,0 +1,23 @@
+
+
+#map {
+  width: 900px;
+  height: 500px;
+}
+
+path {
+  fill: none;
+}
+
+.graticule {
+  stroke: lightgrey;
+}
+
+.geography {
+  stroke: black;
+}
+
+.earthquake {
+  stroke: grey;
+  fill: none;
+}
