@@ -1,7 +1,5 @@
 # {blue}shift interview : Lesson Plan
 
-John IV
-
 An introductory raspberry pi exercise: scraping and visualizing earthquake data.
 
 This lesson will introduce beginner coders to several computing concepts such as:
@@ -35,7 +33,7 @@ The instructor and support staff, along with any advanced students, will be avai
 
 
 | Time | Activity |
-| === | === |
+| --- | --- |
 | 0 | Introduction, data, processors |
 | 5 | Hard drives, local and relative paths, URLs |
 | 15 | Clients, servers and web APIs |
@@ -46,12 +44,12 @@ The instructor and support staff, along with any advanced students, will be avai
 
 ## Resources
 
-get_earthquakes.py
+`get_earthquakes.py`
 - Examining request URL
 - Printing fetched data
 - Writing fetched data to file
 
-visualize_earthquakes.html+
+`visualize_earthquakes.html+`
 - Relative path to get_earthquakes.py JSON output
 - Viewing site in browser on local web server (`python -m http.server`)
 
